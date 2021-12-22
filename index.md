@@ -1,35 +1,13 @@
 
+# INTRODUCTION
 
-# Hosting websites/homepages on GitHub Pages
+Python is, according to https://www.python.org/:
 
-```{questions}
-- How to serve a website/homepage using GitHub
-```
+Python is a great object-oriented, interpreted, and interactive programming language. It is often compared  to Lisp, Tcl, Perl, Ruby, C#, Visual Basic, Visual Fox Pro, Scheme or Java... and it's much more fun.
 
-## Hosting websites/homepages on GitHub Pages
+Python combines remarkable power with very clear syntax. It has modules, classes, exceptions, very high level dynamic data types, and dynamic typing. There are interfaces to many system calls and libraries, as well as to various windowing systems. New built-in modules are easily written in C or C++ (or other languages, depending on the chosen implementation). Python is also usable as an extension language for applications written in other languages that need easy-to-use scripting or automation interfaces. 
 
-You can host your personal homepage or group webpage
-or project website on GitHub using
-[GitHub Pages](https://pages.github.com/).
+Documentation is found here https://www.python.org/doc/.
 
-[GitLab](https://about.gitlab.com/features/pages/) and
-[Bitbucket](https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html)
-also offer a very similar solution.
+Python forum is found here https://python-forum.io/ .
 
-Unless you need user authentication or a sophisticated database behind your website,
-[GitHub Pages](https://pages.github.com/) can be a very nice alternative
-to running your own web servers.
-
-This is how all
-[https://coderefinery.org](https://coderefinery.org)
-material is hosted.
-
----
-
-```{figure} img/gh-pages.svg
-:alt: Scheme that describes how branch names end up websites
-
-Scheme that describes how branch names end up websites.
-```
-
----
